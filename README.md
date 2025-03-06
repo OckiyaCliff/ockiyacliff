@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ockiya Cliff (IVY)</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
-- 🔭 I’m currently working on [Presale WebApp on Solana](https://sol-presale-el-salvador-dogs.vercel.app/)
+- 🔭 I’m currently working on [Slydr](https://slydr.vercel.app//)
 
 - 🌱 I’m currently learning **React Native, Elixir,**
 
