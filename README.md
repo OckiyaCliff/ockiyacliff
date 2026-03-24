@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ockiya Cliff (IVY)</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A passionate Software Engineer from Nigeria</h3>
 
 - 🔭 I’m currently working on [Slydr](https://slydr.vercel.app//)
 
